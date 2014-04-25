@@ -253,14 +253,3 @@ font-family:"Times New Roman", Times, serif;
 padding:5px;
 }
 
-
-#blackbelts img{
-text-align: center;
-}
-#blackbelts ol li{
-list-style-type: none;
- border: solid 1px black;
- display:block;
-
-
-}
