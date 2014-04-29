@@ -32,4 +32,16 @@ a:hover {
 	color: black;
 }
 
+a:link { 
+	text-decoration: none;
+	background: white;
+	color: black;
+}
+
+a:visited { 
+	text-decoration: none;
+	background: white;
+	color: black;
+}
+
 
