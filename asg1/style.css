@@ -1,6 +1,6 @@
 /* Kool Tyrone Student's Diner */
 
-<style>
+
 			body
 			{
 				background-color: #FFEEBB;
@@ -9,7 +9,7 @@
 			}
 			h1 
 			{
-			color:green;
+			color:navy;
 			font-family: Times, Georgia,serif;
 			}
 			h1, h2, p 
@@ -22,9 +22,9 @@
 			}
 			dt
 			{
-			color:green;
+			color:navy;
 			font-weight: bold; 
 			font-family: arial, helvetica, sans-serif;
 			}
 
-		</style>
+	
