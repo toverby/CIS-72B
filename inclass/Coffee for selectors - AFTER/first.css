@@ -28,7 +28,7 @@ h2, h3 {
 
 a:hover { 
 	text-decoration: none;
-	background: white;
+	background: transparent;
 	color: black;
 }
 
