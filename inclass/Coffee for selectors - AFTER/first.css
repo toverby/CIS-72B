@@ -34,7 +34,7 @@ a:hover {
 
 a:link { 
 	text-decoration: none;
-	background: white;
+	background: transparent;
 	color: black;
 }
 
