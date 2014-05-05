@@ -4,16 +4,32 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
 				"font",
 				"font-family"
 			],
 			[
-				"font-s",
-				"font-size"
+				"fon",
+				"font-weight"
 			],
 			[
-				"text",
-				"text-align"
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-size"
 			],
 			[
 				"back",
@@ -24,34 +40,29 @@
 	"buffers":
 	[
 		{
+			"file": "/Z/xampp/htdocs/CIS-72B/asg2/resume.html",
+			"settings":
+			{
+				"buffer_size": 3018,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "breakfast_kool.htm",
 			"settings":
 			{
-				"buffer_size": 1161,
+				"buffer_size": 1156,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lunch_kool.htm",
+			"contents": "<!doctype html>\n\n      <head>\n                <meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n                <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n                <meta http-equiv=\"Expires\" content=\"0\" />\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" media=\"screen\"/>\n        \n\n      </head>\n\n<body>\n\n     <div id=\"header\">\n\n  <h1>CIS-72B 42378</h1>\n      \n    </div>\n\n    <div id=\"tabs\">\n      <ul>\n        <li><a href=\"http://localhost/cis-72b/asg1/\">assignment 1</a></li>\n        <li><a href=\"http://localhost/cis-72b/asg2/\">assignment 2<</li>\n        <li><a href=\"\">link3</a></li>\n        <li><a href=\"\">4</a></li>\n        <li><a href=\"\">5</a></li>\n         \n      </ul>\n  </div>\n\n\n\n",
+			"file": "/Z/xampp/htdocs/CIS-72B/header.html",
+			"file_size": 785,
+			"file_write_time": 130435452773476562,
 			"settings":
 			{
-				"buffer_size": 1179,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dinner_kool.htm",
-			"settings":
-			{
-				"buffer_size": 1502,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tyrone_overby.css",
-			"settings":
-			{
-				"buffer_size": 362,
+				"buffer_size": 750,
 				"line_ending": "Windows"
 			}
 		}
@@ -59,15 +70,15 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 209.0,
+		"height": 381.0,
 		"selected_items":
 		[
 			[
 				"Package Control: ",
-				"Package Control: Discover Packages"
+				"Package Control: Install Package"
 			]
 		],
-		"width": 549.0
+		"width": 478.0
 	},
 	"console":
 	{
@@ -88,17 +99,29 @@
 	},
 	"file_history":
 	[
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/CSSFontFamily/CSSFontFamily.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/CSSFontFamily.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/CSS Format/Example.sublime-keymap",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/Simple Print Function/SublimePrint.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/SublimePrint.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Z/xampp/htdocs/CIS-72B/asg1/breakfast_kool.htm",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-package",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Z/xampp/htdocs/CIS-72B/asg1/tyrone_overby.css",
+		"/Z/xampp/htdocs/CIS-72B/asg1/dinner_kool.htm",
+		"/Z/xampp/htdocs/CIS-72B/asg1/lunch_kool.htm",
 		"/Z/xampp/htdocs/CIS-72B/asg1/lunch_kranky.htm",
 		"/Z/xampp/htdocs/CIS-72B/header.html",
-		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/Z/Program Files/SublimeText3/Packages/Package Control.sublime-package",
-		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
-		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -112,6 +135,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Joe ",
 			"style.css",
 			"Kelsey's"
 		],
@@ -121,6 +145,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Tyrone ",
+			"Tyrone",
 			"tyrone_overby.css",
 			"Tyrone Student"
 		],
@@ -140,80 +166,88 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "breakfast_kool.htm",
+					"file": "/Z/xampp/htdocs/CIS-72B/asg2/resume.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1161,
+						"buffer_size": 3018,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								164,
-								173
+								2527,
+								2527
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 70
+						},
+						"translation.x": 0.0,
+						"translation.y": 320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "breakfast_kool.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lunch_kool.htm",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1179,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								132,
-								141
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 68.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "dinner_kool.htm",
+					"file": "/Z/xampp/htdocs/CIS-72B/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1502,
+						"buffer_size": 750,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30,
-								30
+								604,
+								604
 							]
 						],
 						"settings":
@@ -226,37 +260,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "tyrone_overby.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								362,
-								362
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -264,11 +268,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 25.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -330,10 +334,10 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 126.0,
 	"status_bar_visible": true,
 	"template_settings":
