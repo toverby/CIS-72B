@@ -1,8 +1,35 @@
 /* Styles for Daily Spin pages, by Joe Student */
 
-body { margin: 15px 5% 10px 5%; background: #660; color: black;}
+body
+ { 
+ 	margin: 15px 5% 10px 5%; 
+ 	background: #660; 
+ 	color: black;
+ }
 
-table#main{  background: #FCFBF3;}
+ div#page
+ {
+ 	background: #cccc99; padding: 10px;
+ 	border: solid #663300  3px;
+ }
 
+table#main
+{ 	 background: #FCFBF3;
+	border: solid 1px #999900;
+
+}
+
+h1 
+{
+	font-size: 300%; 
+	font-family: Georgia, Times, "Times New Roman", serif;
+	word-spacing: 4px; letter-spacing: 2px; color: #996600;
+}
+
+h1 span 
+{
+	font-size: 30%;
+	font-variant: small-caps;
+}
 
 
