@@ -41,9 +41,7 @@ h2
 }
 h2, h4  .date
 {
-	font-family: "Courier New", Courier, "Lucida Sans 
-	Typewriter", "Lucida Typewriter", monospace;
-	text-transform: lowercase;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	font-style: italic; margin-left: 15px;
 }
 
