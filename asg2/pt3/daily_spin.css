@@ -38,8 +38,8 @@ h2
 }
 h2, h4  .date
 {
-	font-family: ""Courier New", Courier, "Lucida Sans 
-	Typewriter", "Lucida Typewriter", monospace;" ;
+	font-family: "Courier New", Courier, "Lucida Sans 
+	Typewriter", "Lucida Typewriter", monospace;
 	text-transform: lowercase;
 	font-style: italic; margin-left: 15px;
 }
@@ -64,7 +64,7 @@ h4
 }
 p
 {
-	font-family: ""Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;";
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif";
 	font-size: 90%;
 	line-height: 1.5;
 	letter-spacing: 1px;
@@ -84,3 +84,15 @@ p
 {
 	vertical-align: super; font-size: 60%;
 }
+
+a:link, a:visited {color: #999900;}
+a:hover, a:active { color:  olive; text-decoration: underline overline;}
+
+#links a:link, #links a:visited {text-decoration: none;}
+#links a:hover, #links a:active {text-decoration: underline};
+
+#links.level2
+{
+	margin-left: 1.5em;
+}
+
