@@ -1,4 +1,4 @@
-/* Styles for Daily Spin pages, by Joe Student */
+/* Styles for Daily Spin pages, by Tyrone Overby Student */
 
 body
  { 
@@ -12,6 +12,9 @@ body
  	background: #cccc99; padding: 10px;
  	border: solid #663300  3px;
  }
+
+#links .level2 { margin-left: 8px; }
+#links, h1 { margin-left: 15px; }
 
 table#main
 { 	 background: #FCFBF3;
@@ -63,8 +66,7 @@ h4
 	text-transform: uppercase;
 }
 p
-{
-	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif";
+{	font-family:  "Trebuchet MS", Arial, sans-serif;
 	font-size: 90%;
 	line-height: 1.5;
 	letter-spacing: 1px;
@@ -85,14 +87,15 @@ p
 	vertical-align: super; font-size: 60%;
 }
 
+#links {border-right: 1px  #CC9966 dotted;}
 a:link, a:visited {color: #999900;}
+
 a:hover, a:active { color:  olive; text-decoration: underline overline;}
 
 #links a:link, #links a:visited {text-decoration: none;}
-#links a:hover, #links a:active {text-decoration: underline};
+#links a:hover, #links a:active {text-decoration: underline;}
+#links .thispage {font-weight: bold; color:#999900;}
+#links p {line-height:  1.2;}
 
-#links.level2
-{
-	margin-left: 1.5em;
-}
-
+#blogs {margin-left: 10px; }
+#blogs p {margin-bottom: 2.75em;}
