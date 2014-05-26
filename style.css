@@ -16,7 +16,7 @@ html, html a, html p,html li, html h1, html h2, html input, html ul
 {
     -webkit-font-smoothing: antialiased;
     -webkit-text-emphasis-style ;
-    text-shadow: -1px .5px .5px #F0F0F0;
+    text-shadow: -1px .5px .5px #FFF0F0;
 }
 
 .title
@@ -34,16 +34,17 @@ width:975px;
 
 #header
 {
+margin: 0 auto;
 border-bottom:1px solid #999;
-height:80px;
-margin:0 auto;
+height:60px;
 width:975px;
+
 }
 
 #header h1
 {
 color:rgba(255, 0, 0, 0.37);
-font-size:250%;
+font-size:200%;
 letter-spacing:1px;
 text-align:center;
 padding:15px;
@@ -51,19 +52,6 @@ margin-bottom:-5px;
 margin-top: 25px;
 }
 
-#assignments
-{
-margin:0 auto;
-background:#fafafa;
-border:1px solid #999;
-margin-top: 50px;
-display: block;
-width:975px;
-height:20px;
-position: relative;
-list-style:none;
-font-size: 120%;
-}
 
 a {text-decoration:none;}
 
@@ -72,30 +60,21 @@ a:hover
 text-decoration:none;
 }
 
-#assignments li {
-margin:0 auto;
-border:1px solid #EC4040;
-float:left;
-width:160px;
-list-style:none;
-font-size: 95%
-}
 
+#assignments li{
+margin: 0 auto;
+border:1px solid #EC4040;
+width:180;
+list-style:none;
+font-size: 110%
+text-align:center;
+}
 
 #assignments a {
-color:#EC4040;
-display: block;
-line-height:20px;
-text-align:center;
+color:#250620;
+text-align: center;
 }
 
-#assignments p{
-color:#555;
-display: block;
-line-height:20px;
-text-align:center;
-
-}
 
 #assignments a:hover {
 background:#e3e3e3;
