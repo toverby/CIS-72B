@@ -9,7 +9,6 @@ padding:0;
  body{
 background-color: #0A8879;
 
-
 }
 
 html, html a, html p,html li, html h1, html h2, html input, html ul
@@ -22,7 +21,6 @@ html, html a, html p,html li, html h1, html h2, html input, html ul
 .title
 {
 	font-style:inherit;	
-
 }
 
 #wrapper
@@ -37,7 +35,7 @@ width:975px;
 margin: 0 auto;
 border-bottom:1px solid #999;
 height:60px;
-width:975px;
+width:500px;
 
 }
 
@@ -47,11 +45,10 @@ color:rgba(255, 0, 0, 0.37);
 font-size:200%;
 letter-spacing:1px;
 text-align:center;
-padding:15px;
+padding:10px;
 margin-bottom:-5px;
-margin-top: 25px;
+margin-top: 15px;
 }
-
 
 a {text-decoration:none;}
 
@@ -60,28 +57,28 @@ a:hover
 text-decoration:none;
 }
 
-
-#assignments li{
-margin: 0 auto;
-border:1px solid #EC4040;
-width:180;
+#assignments li
+{
 list-style:none;
 font-size: 110%
 text-align:center;
+margin-left: 200px;
+margin-right: 200px;
 }
 
-#assignments a {
+#assignments a 
+{
 color:#250620;
 text-align: center;
 }
 
-
-#assignments a:hover {
+#assignments a:hover 
+{
 background:#e3e3e3;
-
 }
 
-#assignments a:active {
+#assignments a:active 
+{
 background:#e3e3e3;
 color:#777;
 }
