@@ -5,17 +5,8 @@ margin:0;
 padding:0;
 
 }
-
  body{
 background-color: #DDF8F5;
-
-}
-
-html, html a, html p,html li, html h1, html h2, html input, html ul
-{
-    -webkit-font-smoothing: antialiased;
-    -webkit-text-emphasis-style ;
-    text-shadow: -1px .5px .5px #FFF0F0;
 }
 
 .title
@@ -82,4 +73,11 @@ background:#e3e3e3;
 {
 background:#e3e3e3;
 color:#777;
+}
+
+html, html a, html p,html li, html h1, html h2, html input, html ul
+{
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-emphasis-style ;
+    text-shadow: -1px .5px .5px #FFF0F0;
 }

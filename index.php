@@ -1,14 +1,11 @@
-<?php #index.php
-	//Tyrone Overby
-	
-	include ('header.html');
-	$page_title="cis72b";?>
-
-
-			<body>
-
-			
-			</body>	
-	
-	</html>	
+<?php #index.php Tyrone Overby. $page_title="cis72b"; 
+include ('header.html');	
 ?>
+
+	<body>
+
+	
+	</body>	
+	
+</html>	
+
