@@ -1,0 +1,110 @@
+/* Box Styles for Tyrone Overby  Student's Daily Spin -- Complete Blog Pages 
+assignment 3 
+*/
+
+div#page
+{
+	border: solid 4px #770000;
+	background-color: #d8d8d8;
+	padding: 10px;
+
+}
+
+div#content
+{
+	border: solid 1px #3366cc;
+}
+
+div#masthead
+{
+	padding: 0  20px 30px 20px;
+}
+
+h2
+{
+	float: right;
+	margin: -2em 25px 0 0;
+}
+
+div#links
+{
+	float: left;
+	width:20%;
+	border: solid 1px #3366cc;
+	border-left-width: 0;
+	background-color: #d8d8d8;
+	margin-left:  -1px;
+}
+
+#links p
+{
+	text-indent:  10px;
+	margin:  0;
+	padding:  1px  0;
+	border-bottom:  1px solid #e0e0e0;
+
+}
+
+#links a
+{
+	display: block;
+}
+
+#links .level2 p 
+{
+
+	text-indent: 25px;
+}
+
+h3
+{
+	margin: 0 0 5px 0;
+}
+div#blogs
+{
+	float:left;
+	width:  65%
+}
+
+#blogs p
+{
+	margin-top: 0;
+	margin-bottom: 1.5em;
+	margin-left: 40px;
+	text-align: justify;
+}
+
+#blogs .pullquote
+{
+	float: right;
+	background-color: #f0f0f0f0;
+	width: 25%;
+	color:  #770000;
+	font:  1.4em Georgia, Times, "Times New Roman", serif;
+	margin:  0 0 0 15px;
+	padding:  2px  2px 0 5px;
+	border: solid #770000;
+	border-width:  1px 3px 0 0;
+}
+
+div#footer
+{
+	clear:both;
+}
+
+#links a
+{
+	display: block;
+	
+}
+
+#links a: link,  #links a:visited
+{
+	padding: 0 0 1px 3px;
+}
+#links a:hover, #links a:active
+{
+	padding:  0;
+	border-left:  3px #770000 solid;
+	border-bottom: 1px #77000 solid;
+}
