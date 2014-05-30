@@ -4,13 +4,14 @@
 /* General Page Styles */
 /* =================== */
 
-body{
+body
+{
 	margin:0;
 	padding: 0;
 	height: 100%;
 	font-size: 100%;
 	color: black;
-   font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+   	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
 }
 
 
@@ -65,7 +66,7 @@ h5, h6{
 	margin: 0;
 	padding: 0 0 0 20px;
 	color: #BCB;
-	font: bold .75em/1.3 Verdana, "Trebuchet MS", Geneva, Arial, sans-serif;
+	font: bold .75em 1.3 Verdana, "Trebuchet MS", Geneva, Arial, sans-serif;
 }
 
 #breadcrumbs a:link,
