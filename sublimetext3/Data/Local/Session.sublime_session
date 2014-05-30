@@ -1,0 +1,405 @@
+{
+	"folder_history":
+	[
+		"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/CIS-72B",
+		"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/CIS-72B/asg3"
+	],
+	"last_version": 3059,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 786.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"t",
+						"true"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 298.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 518.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Default/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console",
+					"manager",
+					"pack"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 106.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 764.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"t",
+						"true"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/CakePHP (Native).sublime-package",
+					"settings":
+					{
+						"buffer_size": 45837,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 247.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 518.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/CIS-72B/asg3/spin_box.css",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/AutoBackups (Windows).sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Alignment/Base File.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/Base File.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/SyntaxHighlightTools/README.rst",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/Plain text.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/CIS-72B/asg3/daily_spin.htm",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/Emmet.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/AutoSoftWrap/AutoSoftWrap.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/AutoSoftWrap.sublime-settings",
+				"/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/Default/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console",
+					"manager",
+					"pack"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Program Files\\Apache Software Foundation\\Apache2.2\\htdocs\\CIS-72B\\asg3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Program Files/Apache Software Foundation/Apache2.2/htdocs/sublimetext3/Data/Packages/User/CakePHP (Native).sublime-package",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45837,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,1,-1,-1,-1,-1,855,194,11,974",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 106.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

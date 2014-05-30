@@ -1,33 +1,36 @@
-* {
+/*	CSS file for Index page for CIS 72B
+	Name: Tyrone Overby
+*/
 
+* {
 border:0;
 margin:0;
 padding:0;
 
 }
- body{
+
+ body
+ {
 background-color: #DDF8F5;
 }
 
 .title
 {
-	font-style:inherit;	
+	font-style:inherit;
 }
 
-#wrapper
+/*#wrapper
 {
 margin:0 auto;
 width:975px;
-
 }
-
+*/
 #header
 {
 margin: 0 auto;
 border-bottom:1px solid #999;
 height:60px;
-width:500px;
-
+width:975px;
 }
 
 #header h1
@@ -43,41 +46,51 @@ margin-top: 15px;
 
 a {text-decoration:none;}
 
-a:hover 
+a:hover
 {
 text-decoration:none;
+}
+
+#assignments
+{
+float: left;
 }
 
 #assignments li
 {
 list-style:none;
 font-size: 110%
-text-align:center;
-margin-left: 200px;
-margin-right: 200px;
+margin-left: 50px;
+margin-right: 50px;
 width: 500px;
 }
 
-#assignments a 
+#assignments a
 {
 color:#250620;
 text-align: center;
 }
 
-#assignments a:hover 
+#assignments a:hover
 {
 background:#e3e3e3;
 }
 
-#assignments a:active 
+#assignments a:active
 {
 background:#e3e3e3;
 color:#777;
 }
+
 
 html, html a, html p,html li, html h1, html h2, html input, html ul
 {
     -webkit-font-smoothing: antialiased;
     -webkit-text-emphasis-style ;
     text-shadow: -1px .5px .5px #FFF0F0;
+}
+
+.link_final
+{
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 }

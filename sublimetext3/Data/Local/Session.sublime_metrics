@@ -1,0 +1,35 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"3024 Color Scheme",
+		"Additional PHP Snippets",
+		"AutoSoftWrap",
+		"Color Scheme - Baara Dark",
+		"Color Scheme - Vintage Terminal",
+		"CSS3_Syntax",
+		"Deep Blue See",
+		"Emmet",
+		"HTML5",
+		"Package Control",
+		"SimplestDebugger",
+		"Theme - Soda",
+		"W3CValidators",
+		"Alignment",
+		"All Autocomplete",
+		"Animate.css Snippets",
+		"AutoWrap",
+		"CakePHP (Native)",
+		"CSSFontFamily",
+		"Font Awesome",
+		"OpenGL Shading Language (GLSL)",
+		"SyntaxHighlightTools",
+		"WebFont"
+	],
+	"startup_sec": 0.4110644,
+	"syntax":
+	{
+		"JSON": 24
+	},
+	"time": 1401472783
+}
