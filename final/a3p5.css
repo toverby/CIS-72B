@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* A3P5 Stylesheet Sample */
+
+header, nav, section, footer, article {     /* leave this alone */
+	display: block;
+}
+body {                       /* change background, color, and font  */
+	background:#333333;
+	color: #330066;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+}
+#pagewrap {	                 /* change background, adjust width as needed */
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background: gray;
+}
+header {                     /* change background, color, whatever else you want */
+	background: #6699CC;
+	color: #FFFFCC;
+	margin: 0;
+	padding: 2em 2em;
+}
+#main {                      /* change background, whatever else you want   */
+	width: 700px;
+	float: left;
+	background: #FFFFE8;
+	padding: 0em;
+}
+#main > * {                   /* adjust as needed  */
+	margin-left: 2em;
+}
+h1 {                          /* adjust as needed  */
+	margin: 0;
+}
+h1, h2, h3, h4 {              /* change fonts to fit your theme  */
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-bottom: 0;
+}
+p {                           /* adjust as needed  */
+	margin-top: 5px;
+}
+nav {                         /* change background, adjust width, padding as needed  */
+	width: 200px;
+	float: left;
+	background: #99FFFF;
+	padding-top: 4em;
+}
+nav ul {
+	list-style-type: none;     /* this turns off bullets on navigation list   */
+	line-height: 1.4;          /* adjust as needed for link spacing */
+	padding-left:0;
+}
+nav li {                      /* change background, adjust others as needed  */
+	margin-top: .5em;
+	font-size: 95%;
+	background: yellow;
+	text-align: center;
+}
+nav a {                       
+	text-decoration: none;     /* turns off underlining on links within nav bar  */
+}
+article {                     /* adjust as needed to separate one article from next */
+	margin: 1em;
+}
+#hotelpic {                   /* add borders and margin to your hotel image here  */
+	float: right;
+}
+footer {                      /* adjust as needed  */
+	margin-top: 2em;
+	text-align: center;
+	font-size: 90%;
+	clear: left;
+}
