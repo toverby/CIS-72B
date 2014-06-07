@@ -1,11 +1,6 @@
 <?php #index.php Tyrone Overby. $page_title="cis72b"; 
 include ('header.html');	
 ?>
-
 	<body>
 
-	
-	</body>	
-	
-</html>	
-
+<?php include ('footer.html');?>
