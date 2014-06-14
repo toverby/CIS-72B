@@ -9,6 +9,7 @@ padding:0;
 
 }
 
+
 html, html a, html p,html li, html h1, html h2, html input, html ul
 {
     -webkit-font-smoothing: antialiased;
@@ -20,6 +21,18 @@ html, html a, html p,html li, html h1, html h2, html input, html ul
  {
 background-color: #DDF8F5;
 letter-spacing: 3px;
+
+
+background: rgb(208,228,247); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2QwZTRmNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjI0JSIgc3RvcC1jb2xvcj0iIzczYjFlNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzBhNzdkNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc5JSIgc3RvcC1jb2xvcj0iIzUzOWZlMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4N2JjZWEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  rgba(208,228,247,1) 0%, rgba(115,177,231,1) 24%, rgba(10,119,213,1) 50%, rgba(83,159,225,1) 79%, rgba(135,188,234,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,228,247,1)), color-stop(24%,rgba(115,177,231,1)), color-stop(50%,rgba(10,119,213,1)), color-stop(79%,rgba(83,159,225,1)), color-stop(100%,rgba(135,188,234,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7', endColorstr='#87bcea',GradientType=0 ); /* IE6-8 */
 }
 
 .title
@@ -27,30 +40,31 @@ letter-spacing: 3px;
 	font-style:inherit;
 }
 
-/*#wrapper
+#wrapper
 {
 margin:0 auto;
-width:975px;
+width:1200px;
 }
-*/
+
+
 #header
 {
 margin: 0 auto;
 border-bottom:1px solid #999;
 height:60px;
-width:975px;
+width:1200px;
 float: left;
 }
 
 #header h1
 {
 color:rgba(255, 0, 0, 0.37);
-font-size:200%;
+font-size:140%;
 letter-spacing:1px;
 text-align:center;
 padding:10px;
-margin-bottom:-5px;
-margin-top: 15px;
+margin-bottom:-1px;
+margin-top: 10px;
 }
 
 a {text-decoration:none;}
@@ -60,25 +74,62 @@ a:hover
 text-decoration:none;
 }
 
-#assignments
+#assignments a  h3
+
 {
+color:#0C2FBD;
 float: left;
+display: inline-block;
+list-style:none;
+text-align: center;
+margin-left: 5px;
+margin-right:.5px;
+width: 300px;
+
 }
+
+
+
+#assignments ul
+{
+color:#0C2FBD;
+float: left;
+display: block;
+list-style:none;
+text-align: center;
+margin-left: 5px;
+margin-right:.5px;
+width: 300px;
+}
+
 
 #assignments li
 {
+color:#0C2FBD;
+float: left;
+display: block;
 list-style:none;
-font-size: 110%
-margin-left: 50px;
-margin-right: 50px;
-width: 975px;
+text-align: center;
+margin-left: 5px;
+margin-right:.5px;
+width: 300px;
 }
 
 #assignments a
-{
-color:#0C2FBD;
+{color:#0C2FBD;
+float: left;
+display: block;
+list-style:none;
 text-align: center;
+margin-left: 5px;
+margin-right:.5px;
+width: 300px;
+font-size: 85%;
+
+
 }
+
+
 
 #assignments a:hover
 {
@@ -91,12 +142,16 @@ background:#e3e3e3;
 color:#777;
 }
 
-.assignmentlinks
+.assignmentlinks li
 {
-float: left;
+font-size: 100%
 }
-
 .link_final
 {
 	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+
+.index_footer
+{
+
 }
