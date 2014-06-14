@@ -1,11 +1,20 @@
 <?php #index.php Tyrone Overby. $page_title="cis72b"; 
 include ('header.html');	
 ?>
+	<body class="gradient">
 
-	<body>
+		<div id="wrapper">
+		
+
+		
+	
+		</div>
+	</body>
 
 	
-	</body>	
-	
+
 </html>	
 
+	<footer>
+			<p class="index_footer">Designed by CodeFinite Studios</p>
+	</footer>

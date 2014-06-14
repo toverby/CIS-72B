@@ -1,0 +1,30 @@
+/*assignment 2 */
+/*Tyrone Overby assignment 1-rename original file to tyrone_overby.css */
+
+			body
+			{
+				background-color: #FFEEBB;
+				margin: 30px;
+
+			}
+			h1 
+			{
+			color:navy;
+			font-family: Times, Georgia,serif;
+			}
+			h1, h2, p 
+			{
+				text-align: center;
+			}
+			h2 
+			{
+				font-size: 12pt;
+			}
+			dt
+			{
+			color:navy;
+			font-weight: bold; 
+			font-family: arial, helvetica, sans-serif;
+			}
+
+	

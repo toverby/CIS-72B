@@ -1,19 +1,14 @@
-/* Common Styles for all pages of Rusty Guts Hotel Web site */
-/* Note: Refer to grading sheet for details on each of these sections */
-
-/* CSS Final Project by Tyrone Overby <----  YOUR NAME HERE */
-
-/* First rule below should probably be left alone. */
-
-
 @charset "utf-8";
-
-header, nav, section, footer, article 
-{     /* leave this alone */
+/* A3P5 Stylesheet Sample */
+/*Tyrone Overby */
+header, nav, section, footer, article {     /* leave this alone */
 	display: block;
 }
 
-.grad {background-color: rgb(153,96,21); /* Old browsers */
+
+body
+{
+background: rgb(153,96,21); /* Old browsers */
 /* IE9 SVG, needs conditional override of 'filter' to 'none' */
 background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1jb2xvcj0iIzk5NjAxNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUyJSIgc3RvcC1jb2xvcj0iI2RjYjY0MiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
 
@@ -24,49 +19,44 @@ background: -o-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1)
 background: -ms-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* IE10+ */
 background: linear-gradient(135deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#996015', endColorstr='#dcb642',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
-}
-
-body{
-background-color: rgb(153,96,21); /* Old browsers */
-/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1jb2xvcj0iIzk5NjAxNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUyJSIgc3RvcC1jb2xvcj0iI2RjYjY0MiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
-
-background: -moz-linear-gradient(-45deg,  rgba(153,96,21,1) 33%, rgba(220,182,66,1) 52%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, right bottom, color-stop(33%,rgba(153,96,21,1)), color-stop(52%,rgba(220,182,66,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* Opera 11.10+ */
-background: -ms-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* IE10+ */
-background: linear-gradient(135deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#996015', endColorstr='#dcb642',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
-
+font-size: 100%;
 margin: 0;
 padding: 0;
+
 }
 
-
-.headingtext  h1
-{
-	letter-spacing: 2px;
-	word-spacing: 3px;
-	text-align: center;
-	font-size: 200%;
-	font-family: 'Smokum', Normal ;
-	padding: 2em 2em;
-}
-
-
-#pagewrap.grad h2 p
+#pagewrap 
 {	                 /* change background, adjust width as needed */
-	width: 900px;
-	
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
 	/* background: gray; */
 }
 
+header
+ {                     /* change background, color, whatever else you want */
+	
+	/*color: #FFFFCC;*/
+	margin: 0;
+	padding: 2em 2em;
+	background: rgb(153,96,21); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background-color:  url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1jb2xvcj0iIzk5NjAxNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUyJSIgc3RvcC1jb2xvcj0iI2RjYjY0MiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
 
-#main.grad h2 p
+background-color: -moz-linear-gradient(-45deg,  rgba(153,96,21,1) 33%, rgba(220,182,66,1) 52%); /* FF3.6+ */
+background-color: -webkit-gradient(linear, left top, right bottom, color-stop(33%,rgba(153,96,21,1)), color-stop(52%,rgba(220,182,66,1))); /* Chrome,Safari4+ */
+background-color: -webkit-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* Chrome10+,Safari5.1+ */
+background-color: -o-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* Opera 11.10+ */
+background-color: -ms-linear-gradient(-45deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* IE10+ */
+background-color: linear-gradient(135deg,  rgba(153,96,21,1) 33%,rgba(220,182,66,1) 52%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#996015', endColorstr='#dcb642',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+
+#main 
 {                      /* change background, whatever else you want   */
 	width: 700px;
 	float: left;
+	background: #FFFFE8;
 	padding: 0em;
 }
 
@@ -75,7 +65,8 @@ padding: 0;
 }
 h1
  {                          /* adjust as needed  */
-	}
+	margin: 0;
+}
 
 h1, h2, h3, h4
 {             
@@ -152,6 +143,7 @@ margin-left: 10px;
 .mary
 {
 float: left;
+border-style: ridge;
 box-shadow: 3px;
 border-width: 5px;
 border-color: #4E4B27;
@@ -166,6 +158,7 @@ margin: 5px;
 .calamity
 {
 float: right;
+border-style: ridge;
 box-shadow: 3px;
 border-width: 5px;
 border-color: #4E4B27;
@@ -180,6 +173,7 @@ margin: 5px;
 .della
 {
 float: left;
+border-style: ridge;
 box-shadow: 3px;
 border-width: 5px;
 border-color: #4E4B27;
@@ -195,11 +189,8 @@ margin: 5px;
 .headingtext h1
 {
 font-size: 200%;
+
 }
-
-*.images h1{ position:relative; z-index:1; }
-#headingtext { position:fixed; z-index:auto;width:250px; height:169px; bottom:0; left:270px; margin:0; }
-
 
 footer 
 {                      /* adjust as needed  */
