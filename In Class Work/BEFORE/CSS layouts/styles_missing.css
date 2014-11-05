@@ -1,0 +1,43 @@
+/* CSS Document */
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+div#header {
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+}
+
+
+img#titletext {
+	top: 40px;
+	position: absolute;
+	left: 300px;
+}
+
+div#nav ul {
+	list-style-type: none;	
+}
+
+div#nav ul li {
+	display: inline;  
+}
+
+div#content {
+	position: absolute;
+	left: 56px;
+	top: 230px;   
+	padding-right: 274px;
+}
+
+div#sidebar {
+	position: absolute;
+	top: 280px;
+	right: 20px;
+	width: 222px;   
+}

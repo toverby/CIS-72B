@@ -1,0 +1,55 @@
+/* Basic Styles For "The Full Cup of Coffee" 
+	Author: 
+	Description:
+*/
+
+
+body { 
+	margin: 0 40px; 
+	background-color: #E6D5A4; 
+	color: black; 
+}
+
+body, td, th {
+	font: 105%/1.2 Arial, Helvetica, sans-serif; 
+}
+
+th {
+	font-weight: bold;
+	text-align: left;
+}
+	
+
+h1 { 
+	margin: 0 -40px 0 -40px; 
+	background: url(bg_coffeebeans.jpg) rgb(76,39,31);
+}
+
+h2, h3 { 
+	font-family: Georgia, "Times New Roman", Times, serif; 
+	color: #774818; 
+}
+
+h2 {
+	font-size: 140%;
+	margin-top: 30px;
+}
+
+h3 {
+	font-size: 110%;
+}
+
+a { 
+	color: #663300;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 90%;
+	margin-right: 5px;
+}
+
+hr {
+	width: 75%;
+	height: 1px;
+	margin-top: 30px;
+	color: #AA8866;
+}

@@ -1,0 +1,116 @@
+/*  Styles for Jean Kalen Jewelry site by ...  */
+
+
+body {
+	background-color: #E8DBAA;
+	color: #CDC8B4; 
+	margin: 0px;
+
+}
+
+#top {
+	background-color: #330000;
+
+}
+
+#nav { 
+	width: 150px; 
+
+	background-color: #330000;
+}
+
+#main { 
+	color: #330000; 
+	padding: 0px 20px 0px 35px;
+}
+
+#littlelogo { 
+	margin: 20px 0; 
+}
+
+
+h2 { 
+	margin-top: 35px; 
+
+}
+
+h3 {
+
+}
+
+h1, h2, h3 {
+
+}
+
+
+
+
+/* ------- Basic page links -------- */
+
+a:link { 
+	color: #990000; 
+}
+
+a:visited { 
+	color: #660033; 
+}
+
+a:hover { 
+	color: #CC0000; 
+}
+
+a:active { 
+	color: #FF0000; 
+}
+
+
+/* ---------- Navigation sidebar links --------- */
+
+#thispage {
+	color: white;
+	background-color: #570000;
+	padding: .2em 0;
+
+}
+
+#nav a { 
+
+	display: block;
+	padding: .2em 0;
+
+}
+#nav p { 
+	margin: 0;
+}
+
+#nav a:link {
+	color: #E8DBAA;
+}
+
+#nav a:visited {
+	color: #E8DBAA;
+}
+
+#nav a:hover{
+	background-color: #780000;
+}
+
+#nav a:active{
+	background-color: #780000;	
+}
+
+
+
+/* ----  miscellaneous styles  ------- */
+
+.inlinephoto {
+	float: right;
+	border: 2px solid #B7A14F;
+	margin-left: 20px;
+	margin-bottom: 7px;
+}
+
+.textfield {
+	width: 20em;
+	background: #FFFFD8;
+}

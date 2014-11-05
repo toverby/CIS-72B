@@ -1,0 +1,40 @@
+/* Detail Styles For "The Full Cup of Coffee" 
+	Author: 
+	Description:
+*/
+
+
+
+#news {
+	width: 140px;
+	float: right;
+	border: 1px solid black;
+	margin-left: 50px;
+	margin-bottom: 10px;
+	padding: 10px 0px;
+	background-color: #F6E5B4; 
+}
+
+#news h3, #news p {         /* To solve IE's padding problems */
+	padding: 0 20px;
+}
+
+
+.datatable {
+	border: 1px solid #B96;
+}
+
+tr.oddrow {
+	background-color: #FFEEBD;
+}
+
+tr.evenrow {
+	background-color: #F6E5B4;
+}	
+
+#copyright {
+	text-align: center;
+	font-size: 80%; 
+	color: #A86;
+}
+

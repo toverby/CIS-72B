@@ -1,0 +1,87 @@
+/* Basic Styles For "The Full Cup of Coffee" 
+	Author: 
+	Description:
+*/
+
+
+body { 
+	margin: 0 40px 0 140px; 
+	background-color: #E6D5A4; 
+	color: black; 
+}
+
+body, td, th {
+	font: 105%/1.2 Arial, Helvetica, sans-serif; 
+}
+
+th {
+	font-weight: bold;
+	text-align: left;
+}
+	
+
+h1 { 
+	margin: 0 -40px 0 -140px;  
+	background: url(bg_coffeebeans.jpg) rgb(76,39,31);  
+	border-bottom: 5px solid #BB9966;
+}
+
+h2, h3 { 
+	font-family: Georgia, "Times New Roman", Times, serif; 
+	color: #774818; 
+}
+
+h2 {
+	font-size: 140%;
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+	margin-top: 30px;
+}
+
+h3 {
+	font-size: 110%;
+}
+
+a:link { font-weight: bold; }
+a:visited { font-weight: normal; }
+a:hover { text-decoration: none;}
+a:active { color: red; }
+
+#nav {
+	background-color: #BB9966;
+	margin: 0; 
+	padding-left: 0;
+	position: absolute;
+	top: 130px;
+	left: 15px;
+	width: 100px;
+}
+
+#nav a{ 
+	color: #663300;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 90%;
+	margin: 0px;
+	padding: 0px;
+ 	display: block;
+	width: 100%;
+	
+}
+
+#nav a:hover {
+	background-color: #E6D5A4;
+	
+}
+
+
+
+
+hr {
+	width: 75%;
+	height: 1px;
+	margin-top: 30px;
+	color: #AA8866;
+}
